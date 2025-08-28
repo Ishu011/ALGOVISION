@@ -1,8 +1,8 @@
-# DSA Visualization Application
+# ALGOVISION :- DSA Visualization Application
 
 A comprehensive interactive web application for learning Data Structures and Algorithms through visual demonstrations and step-by-step animations.
 
-## 🚀 Features
+##  Features
 
 ### Data Structures
 - **Arrays**: Interactive array operations with insertion, deletion, and searching
@@ -35,7 +35,7 @@ A comprehensive interactive web application for learning Data Structures and Alg
 - **Visual Feedback**: Color-coded elements to show current state and progress
 - **Responsive Design**: Works seamlessly on desktop, tablet, and mobile devices
 
-## 🛠️ Technology Stack
+## 🛠 Technology Stack
 
 - **Frontend**: React.js (JavaScript)
 - **Styling**: CSS3 with modern design principles
@@ -43,7 +43,7 @@ A comprehensive interactive web application for learning Data Structures and Alg
 - **Build Tool**: Vite
 - **Development**: Hot Module Replacement (HMR)
 
-## 🎨 Design Features
+##  Design Features
 
 - **Modern UI**: Clean, professional interface with gradient backgrounds
 - **Interactive Animations**: Smooth transitions and hover effects
@@ -52,14 +52,14 @@ A comprehensive interactive web application for learning Data Structures and Alg
 - **Responsive Layout**: Grid-based design that adapts to all screen sizes
 - **Accessibility**: High contrast ratios and keyboard navigation support
 
-## 📱 Responsive Design
+##  Responsive Design
 
 The application is fully responsive and provides optimal viewing experience across:
 - **Desktop**: Full-featured layout with side panels
 - **Tablet**: Adapted grid layouts and touch-friendly controls
 - **Mobile**: Stacked layouts with optimized navigation
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Node.js (version 14 or higher)
@@ -116,7 +116,7 @@ The built files will be in the `dist` directory.
 3. Learn **Graphs** for complex relationship modeling
 4. Master **Dynamic Programming** for optimization techniques
 
-## 🎯 Educational Objectives
+## Educational Objectives
 
 This application helps students and developers:
 - **Visualize Abstract Concepts**: See how data structures work in memory
@@ -153,14 +153,14 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **React Team** for the excellent framework
 - **Lucide** for the beautiful icon set
 - **Vite** for the fast build tool
 - **Open Source Community** for inspiration and resources
 
-## 📞 Support
+## Support
 
 If you have any questions or need help with the application:
 - Open an issue on GitHub
